@@ -3,6 +3,10 @@
 ## Overview:
 In this repository, you will find a Power BI project that analyzes a crime dataset. The project encompasses various stages, including data cleaning, modeling, and visualization, aimed at extracting valuable insights from the dataset.
 
+![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/83fc0a43-3caf-4c55-9082-75cdade365ad)
+
+![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/c0b0dcfe-2521-43ce-b50c-7e1e6e54e5a7)
+
 ## Project Workflow:
 1. **Data Cleaning and Formatting:**
    - Utilized Power Query to clean and format the raw crime dataset, ensuring data consistency and quality.
@@ -43,8 +47,4 @@ In this repository, you will find a Power BI project that analyzes a crime datas
 
 8. **Identification of the Most Dangerous Time of the Day:**
    - Pinpoints specific time periods associated with a higher frequency of crimes.
-
-![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/83fc0a43-3caf-4c55-9082-75cdade365ad)
-
-![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/c0b0dcfe-2521-43ce-b50c-7e1e6e54e5a7)
 
